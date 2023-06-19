@@ -16,9 +16,6 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
 ✨ Skills: HTML5, CSS3, JavaScript, React, Node.js, Express.js, Python, Django, Php, SQL, MongoDB, Git, AWS, Azure, RESTful APIs.
 
 📧Let's connect! Feel free to reach out to me via email at codersaro@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/saravananforyou). I'm always open to exciting opportunities and collaborations! 🧡
-<table>
-  <tr>
-    <td>
       <div style="display: flex; justify-content: center;">
         <h1 color="orange" > Connect With Me🤝🏼</h1>
         <hr>
@@ -35,9 +32,7 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
           <img src="https://github.com/saro-dev/saro-dev/assets/133041335/972f7757-136e-46f2-81a9-9fe5f8ba559a" alt="Mail" width="80" height="auto">
         </a>
       </div>
-    </td>
-  </tr>
-</table>
+    
 
 // Me 😉
 ```javascript
