@@ -1,4 +1,5 @@
-[1687150378615 (2)](https://github.com/saro-dev/saro-dev/assets/133041335/333d2a39-d92a-4b22-816c-0c445afb2d17)
+
+![1687150378615 (2)](https://github.com/saro-dev/saro-dev/assets/133041335/285705b1-105c-417c-a9ac-ba0309a99a11)
 
 👨‍💻 About Me!
 
