@@ -1,3 +1,4 @@
+
 👨‍💻 About Me
 
 Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack for crafting exceptional web experiences. I thrive on the synergy between elegant frontend design and powerful backend functionality. With a creative mindset and a love for problem-solving, I enjoy building robust applications that make a difference.
@@ -8,7 +9,6 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
 
 🚀 When I'm not coding, you can find me geeking out over the latest tech gadgets 📱, immersing myself in a captivating sci-fi book 📚, or challenging my strategic skills in gaming 🎮. I also enjoy collaborating with like-minded individuals 👥, solving problems together, and making ideas come to life.
 
-✨ **Skills**: HTML5, CSS3, JavaScript, React, Node.js, Express.js, Python, Django, Php, SQL, MongoDB, Git, AWS, Azure, RESTful APIs.
+✨ Skills: HTML5, CSS3, JavaScript, React, Node.js, Express.js, Python, Django, Php, SQL, MongoDB, Git, AWS, Azure, RESTful APIs.
 
-📧Let's connect! Feel free to reach out to me via email at [codersaro@gmail.com](mailto:yocodersaro@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/saravananforyou. I'm always open to exciting opportunities and collaborations!
-
+📧Let's connect! Feel free to reach out to me via email at codersaro@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/saravananforyou. I'm always open to exciting opportunities and collaborations! 🧡
