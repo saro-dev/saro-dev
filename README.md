@@ -1,5 +1,5 @@
 
-<img src="https://github.com/saro-dev/saro-dev/assets/133041335/285705b1-105c-417c-a9ac-ba0309a99a11" alt="Example Image" width="300" height="auto">
+<img src="https://github.com/saro-dev/saro-dev/assets/133041335/285705b1-105c-417c-a9ac-ba0309a99a11" alt="Example Image" width="400" height="auto">
 
 
 👨‍💻 About Me!
@@ -21,11 +21,10 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
 const saravanan = {
   fulName: "saravanan",
   pronouns: "He/Him",
-  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
-  communities: ["Microsoft Learn Student Ambassador👨‍🎓", "HEKORS Community💜"],
+  tags: [ "Frontend❤️" , "Open-Source🚀" , "UI/UX⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
   askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
-  reachMeOut: ["ayushsoni1010.work@gmail.com"],
-  toFindMeUsername: "@ayushsoni1010"
+  reachMeOut: ["codersaro@gmail.com"],
+  toFindMeUsername: "@saro-dev"
 }
 ```
 
