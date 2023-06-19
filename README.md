@@ -20,12 +20,14 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
   <tr>
     <td>
       <div style="display: flex; justify-content: center;">
-        <img src="![linked](https://github.com/saro-dev/saro-dev/assets/133041335/f28239cb-b14a-4f5e-a8d5-dc533a1981e5)
-" alt="Image 1">
-        <img src="![port](https://github.com/saro-dev/saro-dev/assets/133041335/18efb620-c01c-47c7-b426-e060a4168274)
-" alt="Image 2">
-        <img src="![insta](https://github.com/saro-dev/saro-dev/assets/133041335/fd89f6ec-5b47-4e4e-8885-579a8f7642e9)
-" alt="Image 3">
+        <img src="![linked](https://github.com/saro-dev/saro-dev/assets/133041335/2100df69-7f20-4959-bb5a-d568ef757165)
+" alt="linkedin" width="100" height="auto">
+        <img src="![insta](https://github.com/saro-dev/saro-dev/assets/133041335/ed7062f0-081f-472f-8d73-7435f94b0217)
+" alt="instagram" width="100" height="auto">
+        <img src="![port](https://github.com/saro-dev/saro-dev/assets/133041335/8d95b378-a0b0-4f6c-af8f-f07ddf806d31)
+" alt="portfolio" width="100" height="auto">
+        <img src="![mail](https://github.com/saro-dev/saro-dev/assets/133041335/972f7757-136e-46f2-81a9-9fe5f8ba559a)
+" alt="Mail" width="100" height="auto">
       </div>
     </td>
   </tr>
