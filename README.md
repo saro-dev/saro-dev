@@ -23,7 +23,7 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
         <img src="https://github.com/saro-dev/saro-dev/assets/133041335/2100df69-7f20-4959-bb5a-d568ef757165" alt="linkedin" width="100" height="auto">
         <img src="https://github.com/saro-dev/saro-dev/assets/133041335/ed7062f0-081f-472f-8d73-7435f94b0217" alt="instagram" width="100" height="auto">
         <img src="https://github.com/saro-dev/saro-dev/assets/133041335/8d95b378-a0b0-4f6c-af8f-f07ddf806d31" alt="portfolio" width="100" height="auto">
-        <img src="https://github.com/saro-dev/saro-dev/assets/133041335/972f7757-136e-46f2-81a9-9fe5f8ba559a" alt="Mail" width="100" height="auto">
+        <img src="https://github.com/saro-dev/saro-dev/assets/133041335/972f7757-136e-46f2-81a9-9fe5f8ba559a" alt="Mail" width="80" height="auto">
       </div>
     </td>
   </tr>
