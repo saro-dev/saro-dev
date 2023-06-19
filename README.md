@@ -1,5 +1,6 @@
 
-![1687150378615 (2)](https://github.com/saro-dev/saro-dev/assets/133041335/285705b1-105c-417c-a9ac-ba0309a99a11)
+<img src="https://github.com/saro-dev/saro-dev/assets/133041335/285705b1-105c-417c-a9ac-ba0309a99a11" alt="Example Image" width="300" height="auto">
+
 
 👨‍💻 About Me!
 
