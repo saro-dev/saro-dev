@@ -15,8 +15,9 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
 
 📧Let's connect! Feel free to reach out to me via email at codersaro@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/saravananforyou. I'm always open to exciting opportunities and collaborations! 🧡
 
-About Me
-`print(const saravanan = {
+
+```About Me
+const saravanan = {
   fulName: "saravanan",
   pronouns: "He/Him",
   tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
@@ -24,4 +25,6 @@ About Me
   askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
   reachMeOut: ["ayushsoni1010.work@gmail.com"],
   toFindMeUsername: "@ayushsoni1010"
-})`
+}
+```
+
