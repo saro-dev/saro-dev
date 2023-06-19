@@ -12,3 +12,14 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
 ✨ Skills: HTML5, CSS3, JavaScript, React, Node.js, Express.js, Python, Django, Php, SQL, MongoDB, Git, AWS, Azure, RESTful APIs.
 
 📧Let's connect! Feel free to reach out to me via email at codersaro@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/saravananforyou. I'm always open to exciting opportunities and collaborations! 🧡
+
+About Me
+const ayushsoni1010 = {
+  fulName: "saravanan",
+  pronouns: "He/Him",
+  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Cloud🌩️" , "Backend💡" , "Mentoring🙌" , "Communities🎯"],
+  communities: ["Microsoft Learn Student Ambassador👨‍🎓", "HEKORS Community💜"],
+  askMeAbout: [ "Web Development", "Cloud Technology" , "Open Source" , "API's" ],
+  reachMeOut: ["ayushsoni1010.work@gmail.com"],
+  toFindMeUsername: "@ayushsoni1010"
+}
