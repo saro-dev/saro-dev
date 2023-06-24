@@ -19,7 +19,7 @@ Hey there! 👋 I'm Saravanan, a passionate full-stack developer with a knack fo
       <div style="display: flex; justify-content: center;">
         <h1 color="orange" > Connect With Me🤝🏼</h1>
         <hr>
-        <a href="https://www.linkedin.com/in/saravananforyou">
+        <a href="https://www.linkedin.com/in/saravananforyou/">
           <img src="https://github.com/saro-dev/saro-dev/assets/133041335/2100df69-7f20-4959-bb5a-d568ef757165" alt="linkedin" width="100" height="auto">
         </a>
         <a href="https://instagram.com/i____voltage">
